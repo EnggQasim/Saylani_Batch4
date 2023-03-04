@@ -1,5 +1,5 @@
 Started Date: **28-Feb-2023**
-### Class1: AI For Everyone Slides
+### Class1: AI For Everyone Slides: 28-Feb-2023
 * AI
 * ML/DL/DS
 * Learning Type
@@ -7,7 +7,7 @@ Started Date: **28-Feb-2023**
   * Unsupervise Learning
   * Reinforcement Learning
   * Semi Supervise Learning
-## Class2: AI For Everyone Slides/Git Main concept
+## Class2: AI For Everyone Slides/Git Main concept: 03-Mar-2023
 * AI Stratigy
 * Data
 * AI Application
