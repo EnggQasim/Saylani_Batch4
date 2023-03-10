@@ -1,0 +1,1 @@
+print("Pakistan zinda bad")
