@@ -1,0 +1,10 @@
+body {
+    background-color: #000;
+    color: #fff;
+}
+
+header,
+footer {
+    background-color: red;
+    color: black;
+}
